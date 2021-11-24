@@ -1,4 +1,4 @@
-# Belajar-Turtle
+# Kalkulator Sederhana
 
 ## Overview
 Kalkulator sederhana dengan vanilla JS
